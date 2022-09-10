@@ -14,10 +14,13 @@ A brief description of what this project does
 5. User gets $50 if he wins Pair i.e. any two numbers must be same
 6. User gets $10 if number1<number2<number3
 7. If user have balance <=80 he/she will get promt to add more money to play otherwise he/she could simply quit
-8. Terms & Conditions: This game may cause addiction so play at your own risk
+
 ### CONCLUSION:
 * I learned and understood how to use Python's random module.
 * Also developed coding-logic to provide to interaction with user. 
 ```
 NOTE: Code is comment out to understand logic better.
 ```
+### TERMS & CONDITIONS:
+* This game may cause addiction.
+* Play at your own risk.
