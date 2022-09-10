@@ -13,3 +13,6 @@ A brief description of what this project does
 ### CONCLUSION:
 * I learned and understood how to use Python's random module.
 * Also developed coding-logic to provide to interaction with user. 
+'''
+NOTE: Code is comment out to understand logic better.
+'''
