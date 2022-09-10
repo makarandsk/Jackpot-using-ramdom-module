@@ -1,2 +1,4 @@
-# Python
-This repo contains all my python projects
+# Jackpot using random module
+
+A brief description of what this project does
+_________________________________________________________________________________________________________________________________________________________________________
